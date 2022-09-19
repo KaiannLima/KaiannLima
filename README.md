@@ -41,4 +41,4 @@
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/KaiannLima/kaiann-lima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KaiannLima/KaiannLima/blob/output/github-contribution-grid-snake.svg)
