@@ -6,8 +6,6 @@
 
 🌱 As an enthusiast of web development, i’m focus to learn more and more about web technologies, mainly React.js
 
-🔭 I’m currently working as a freelancer react developer
-
 🎓 Computer Science student
 
 👾 eSports and geek culture lover 
