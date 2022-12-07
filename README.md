@@ -11,7 +11,7 @@
 👾 eSports and geek culture lover 
 
 🎯 Goals: 
-- improve my developer skills
+- Improve my developer skills
 - Collaborate in open-source projects
 
 <class>
