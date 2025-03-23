@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+i'm+Kaiann!+;%22I+have+no+special+talent.+I+am+only+passionately+curious.%22+-+Albert+Einstein)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+i'm+Kaiann!+)](https://git.io/typing-svg)
 
 ### **Expertise Tecnológica**
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&labelColor=0D1117)](https://www.ruby-lang.org/) 
